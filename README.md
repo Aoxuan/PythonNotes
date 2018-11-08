@@ -1,2 +1,2 @@
 # PythonNotes
-Notes for Python books
+记录相关书籍的笔记。
